@@ -83,11 +83,19 @@ We also plan to finish our implementation of infrastructure for plugging in a vi
 ## Contributions
 
 Add No Event Label and Training Data to Event CNN Data - 2/2/2024 - Rohan
+
 Speedups for Event CNN Model - 2/4/2024 - Rohan
+
 YOLO Tracking for Players - 2/2/2024 - Sanjay
+
 Feature Engineering with Ball Position and Event CNN Model - 2/5/2024 - Dhruv
+
 Vision Action Transformer Model working on Test Data - 2/2/2024 - Rishi
+
 Evaluate Event CNN Model with Player Positions and Ball Position - 2/9/2024 - Rohan & Dhruv
+
 Baseline Test for Vision Action Transformer on Soccer Data - 2/14/2024 - Rishi & Rohan
+
 Develop and Benchmark “Event Occuring Prefilter on Video” Model - 2/14/2024 - Dhruv & Sanjay
+
 Prepare Visualization and Diagrams for Final Report - 2/19/2024 - Dhruv & Rohan & Rishi & Sanjay
