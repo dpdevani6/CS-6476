@@ -1,7 +1,7 @@
 ---
 title: CS 6476
-layout: cs6476_mid
-nav_order: 2
+layout: default
+nav_order: 4
 ---
 
 ## Introduction
