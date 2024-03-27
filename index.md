@@ -1,9 +1,8 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
-
-# CS 6476 Group 60 Project Update
 
 ## Introduction
 We are investigating the problem of how of accurately ball actions from a video feed of a soccer game using state-of-the-art computer vision methods. Examples of ball actions include passes, drives, crosses and many others.
